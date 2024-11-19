@@ -69,6 +69,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 This project was inspired by the Chaos Game algorithm, which shows how simple iterative rules can lead to surprisingly complex results, similar to Markov chains and fractal geometry.
 
-# Contributing
+## Authors
 
-Feel free to fork this project and submit pull requests. Contributions to improve the code or documentation are welcome!
+This project was developed by **Komeyl Kalhorinia**. For any inquiries or contributions, feel free to reach out at [Komylfa@gmail.com]
+
+## Made with ❤️ by Komeyl Kalhorinia
+
